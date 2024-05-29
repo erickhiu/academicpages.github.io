@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "NLP/ Computational Linguistics"
-permalink: /publications/
+title: "Mathematics Education"
+permalink: /publications/mathEd
 author_profile: true
 ---
 
