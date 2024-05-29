@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: "Fine-tuning and testing a multilingual large language model is a challenge for low-resource languages (LRLs) since it is an expensive process. While previous studies have predicted the performance of natural language processing (NLP) tasks using machine learning methods, they primarily focus on high-resource languages, overlooking LRLs and shifts across domains. Focusing on LRLs, we investigate three factors (the size of the fine-tuning corpus, domain similarity between fine-tuning and testing corpora, and language similarity between source and target languages), which can potentially impact the model performance by using classical regression models. Our results indicate that domain similarity has the most important impact on predicting the performance of Machine Translation models."
+date: 2024-02-04
+venue: 'The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)'
+paperurl: 'https://aclanthology.org/2024.findings-eacl.100/'
+citation: 'Eric Khiu, Hasti Toossi, Jinyu Liu, Jiaxu Li, David Anugraha, Juan Flores, Leandro Roman, A. Seza Doğruöz, and En-Shiun Lee. 2024. Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity. In Findings of the Association for Computational Linguistics: EACL 2024, pages 1474–1486, St. Julian’s, Malta. Association for Computational Linguistics.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
