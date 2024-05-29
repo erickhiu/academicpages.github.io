@@ -21,7 +21,7 @@ repository               : "erickhiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "square.png"
+  avatar           : "Square.png"
   name             : "Eric Khiu"
   pronouns         : # example: "she/her"  
   bio              : "Math & CS @ Umich"
