@@ -5,7 +5,8 @@ permalink: /publication/2024-02-04-Predicting Machine Translation Performance on
 excerpt: "Fine-tuning and testing a multilingual large language model is a challenge for low-resource languages (LRLs) since it is an expensive process. While previous studies have predicted the performance of natural language processing (NLP) tasks using machine learning methods, they primarily focus on high-resource languages, overlooking LRLs and shifts across domains. Focusing on LRLs, we investigate three factors (the size of the fine-tuning corpus, domain similarity between fine-tuning and testing corpora, and language similarity between source and target languages), which can potentially impact the model performance by using classical regression models. Our results indicate that domain similarity has the most important impact on predicting the performance of Machine Translation models."
 date: 2024-02-04
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: 'http://erickhiu.github.io/files/PerfPred Slides.pdf'
+posterurl: 'http://erickhiu.github.io/files/PerfPred Poster.pdf'
 paperurl: 'https://aclanthology.org/2024.findings-eacl.100/'
 citation: "Eric Khiu, Hasti Toossi, Jinyu Liu, Jiaxu Li, David Anugraha, Juan Flores, Leandro Roman, A. Seza Doğruöz, and En-Shiun Lee. 2024. Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity. In Findings of the Association for Computational Linguistics: EACL 2024, pages 1474–1486, St. Julian’s, Malta. Association for Computational Linguistics."
 ---
