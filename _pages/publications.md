@@ -1,14 +1,7 @@
 ---
 layout: archive
-title: "Publications"
+title: "NLP/ Computational Linguistics"
 permalink: /publications/
-author_profile: true
----
-
----
-layout: archive
-title: "Publications"
-permalink: /mathEd/
 author_profile: true
 ---
 
