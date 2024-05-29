@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mathematics Education"
-permalink: /publications/mathEd
+permalink: /publications/
 author_profile: true
 ---
 
