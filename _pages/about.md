@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Eric Khiu's corner of the internet! Here, math and computer science come together as I tackle big challenges and push for new ideas. Take a look around to see my education, projects, and what I've done so far. Happy exploring— I hope you find something that inspires you!
+Welcome to Eric's corner of the internet! Here, math and computer science come together as I tackle big challenges and push for new ideas. Take a look around to see my education, projects, and what I've done so far. Happy exploring— I hope you find something that inspires you!
 
 **Things I like**
 ======
