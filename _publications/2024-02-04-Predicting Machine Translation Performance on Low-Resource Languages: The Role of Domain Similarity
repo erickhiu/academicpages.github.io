@@ -6,7 +6,6 @@ excerpt: "Fine-tuning and testing a multilingual large language model is a chall
 date: 2024-02-04
 venue: 'The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)'
 slidesurl: 'http://erickhiu.github.io/files/PerfPred Slides.pdf'
-posterurl: 'http://erickhiu.github.io/files/PerfPred Poster.pdf'
 paperurl: 'https://aclanthology.org/2024.findings-eacl.100/'
 citation: "Eric Khiu, Hasti Toossi, Jinyu Liu, Jiaxu Li, David Anugraha, Juan Flores, Leandro Roman, A. Seza Doğruöz, and En-Shiun Lee. 2024. Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity. In Findings of the Association for Computational Linguistics: EACL 2024, pages 1474–1486, St. Julian’s, Malta. Association for Computational Linguistics."
 ---
