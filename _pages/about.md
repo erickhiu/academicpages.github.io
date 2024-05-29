@@ -12,7 +12,7 @@ Welcome to Eric Khiu's corner of the internet! Here, math and computer science c
 **Things I like**
 ======
 * I love research! My research interest lies in **multiplingual NLP/ Computational Linguistics** and **mathematics education**.
-* I enjoy teaching! I'm currently an instructional aide for [EECS 376: Foundations f Computer Science](https://eecs376.org/) at the University of Michigan.
+* I enjoy teaching! I'm currently an instructional aide for [EECS 376: Foundations of Computer Science](https://eecs376.org/) at the University of Michigan.
 
 
 A data-driven personal website
