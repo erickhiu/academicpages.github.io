@@ -1,5 +1,11 @@
 ---
 layout: archive
+title: "NLP/ Computational Linguistics"
+permalink: /publications/
+author_profile: true
+---
+---
+layout: archive
 title: "Mathematics Education"
 permalink: /publications/
 author_profile: true
