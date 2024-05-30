@@ -24,6 +24,8 @@ Skills
   * TensorFlow, PyTorch, SciPy, Sklearn, Matplotlib  
 * Languages
   * Fluent in English, Chinese, and Malay; beginner in Japanese and Korean
+* Tools
+  * Visual Studio Code, Git Repository, Google Colab, Ubuntu, and Adobe Premiere Pro 
 
 Research experience
 ======
