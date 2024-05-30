@@ -2,7 +2,7 @@
 title: "Instructional Aide"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/EECS276
+permalink: /teaching/EECS376
 venue: "University of Michigan, Computer Science and Engineering"
 date: 2024-01-01
 location: "Ann Arbor, Michigan"
