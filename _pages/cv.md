@@ -31,14 +31,14 @@ Research experience
 ======
 * Research Team Lead
   * The Fields Institute for Research in Mathematical Sciences, University of Toronto (May 2024- present)
-  *  Project: Predicting Performance of Neural Machine Translation (NMT) Models for Low Resource Languages (LRL)
-  *  Model performance of the NMT models such as mBART and mT5 to predict their sp-BLEU scores.
-  *  Analyze various factors affecting the performance using regression analysis.
+  * Project: Predicting Performance of Neural Machine Translation (NMT) Models for Low Resource Languages (LRL)
+  * Model performance of the NMT models such as mBART and mT5 to predict their sp-BLEU scores.
+  * Analyze various factors affecting the performance using regression analysis.
 
 
 * Undergraduate Research Assistant
   * Research on Teaching Mathematics in Undergraduate Settings (RTMUS) Lab (Sept 2022 - Dec 2023)
-  * • Project: Undergraduate Teaching and Learning in Mathematics with Open Software and Textbook (UTMOST3)
+  * Project: Undergraduate Teaching and Learning in Mathematics with Open Software and Textbook (UTMOST3)
   * Developed interactive textbooks that better support teaching and learning of undergraduate mathematics.
   * Designed frameworks to analyze students’ responses to the reading questions embedded in textbooks.
 
