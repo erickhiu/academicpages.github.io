@@ -4,12 +4,6 @@ title: "NLP/ Computational Linguistics"
 permalink: /publications/
 author_profile: true
 ---
----
-layout: archive
-title: "Mathematics Education"
-permalink: /publications/
-author_profile: true
----
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{[site.author.googlescholar](https://scholar.google.com/citations?user=O8ydiOkAAAAJ&hl=en)}}">my Google Scholar profile</a>.</div>
