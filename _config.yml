@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Math & CS @ Umich"
   location         : "Michigan, USA"
-  employer         : "University of Michigan, Ann Arbor"
+  employer         : "University of Michigan"
   uri              : # URL
   email            : "erickhiu@umich.edu" 
 
@@ -201,6 +201,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  mathEd:
+    output: true
+    permalink: /:collection/:path/
+  NLP:
     output: true
     permalink: /:collection/:path/
   portfolio:
